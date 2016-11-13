@@ -2,7 +2,7 @@ package assistante.metier;
 
 import javax.servlet.http.HttpServletRequest;
 
-import assistance.bean.assistantebean;
+import assistante.bean.assistantebean;
 
 public class assistanteMetier {
 	

@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import assistance.bean.assistantebean;
+import assistante.bean.assistantebean;
 import assistante.metier.assistanteMetier;
 
 public class ficheAssistante extends HttpServlet {

@@ -1,4 +1,4 @@
-package assistance.bean;
+package assistante.bean;
 
 public class assistantebean {
 	private String nom, prenom, adresse, cp, ville, dateNaissance ;
