@@ -1,2 +1,38 @@
-h1 { color : blue;
-}
+h1 { color : blue;}
+legend {   	font-family : verdana ;
+			font-weight : bold ;
+			font-size : 60% ;
+			text-align : center ;
+	   }
+
+fieldset {
+    padding: 10px;
+    border: 1px #0568CD solid;
+		}
+
+form input.decaler{ 
+	margin-left : 200px ;
+	font-family : courier ;
+	font-weight:bold ;
+		 }
+.centrer { text-align : center ;}
+.saisie  { 
+		   text-align : left ; 
+		   font-family : verdana ;
+		   font-size : 70% ;
+		   font-weight:bold ;
+	       float : left ;
+		   width : 300px;
+		   margin-right:5px ;
+		}
+.saisieVar {
+		   margin-left:50px ; 
+			}
+.rouge { color : red ;} 
+.commentaire {color : blue ;
+				font-family : verdana ;
+				font-size : 60% ;
+				font-weight:bold;
+			   	}
+
+	 
